@@ -120,5 +120,3 @@ No es necesaria la ejecución manual de scripts SQL; únicamente se requiere cre
 
 📧 Email: dcastro.dev@outlook.com
 
-🔗 GitHub:  
-https://github.com/doniscg
